@@ -1136,3 +1136,30 @@ ed address/port: 127.0.0.1:9003.
 [5156] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
 [5156] Log closed at 2025-01-23 18:03:48.920427
 
+[11128] Log opened at 2025-01-23 18:04:47.596304
+[11128] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[11128] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[8624] Log opened at 2025-01-23 18:04:47.899565
+[8624] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[7432] Log opened at 2025-01-23 18:04:47.903549
+[7432] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[8624] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[11128] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[7432] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[11128] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[11128] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[8624] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[7432] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[11128] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[11128] Log closed at 2025-01-23 18:04:48.537805
+
+[8624] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[8624] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[7432] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[7432] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9003.
+[8624] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[8624] Log closed at 2025-01-23 18:04:48.819639
+
+[7432] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 127.0.0.1:9003 (through xdebug.client_host/xdebug.client_port).
+[7432] Log closed at 2025-01-23 18:04:48.836386
+
