@@ -13,8 +13,8 @@ class Usuario extends Model
     protected $fillable = ['nome', 'email', 'senha'];
     public $timestamps = false;
 
-    public function Serie()
+    public function series()
     {
-        return $this->hasMany(Serie::class);
+        return $this->belongsToMany(Serie::class, 'SeriesUsuarios', 'usuario_id', 'serie_id');
     }
 }

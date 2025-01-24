@@ -14,9 +14,9 @@ class Serie extends Model
 
     public $timestamps = false;
 
-    public function Usuario() 
+    public function usuarios() 
     {
-        return $this->hasMany(Usuario::class);
+        return $this->belongsToMany(Usuario::class, 'SeriesUsuarios', 'serie_id', 'usuario_id');
     }
 
 }
